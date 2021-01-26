@@ -22,7 +22,7 @@ The course deals with the programming of experiments with the software [oTree](h
     <th>Topic</th>
   </tr>
    <tr>
-    <td >1</td>
+     <td ><a href="./1/Printout.html">1</a></td>
     <td>oTree: Programming and management of experiments in oTree</td>
   </tr> 
      <tr>
