@@ -26,7 +26,7 @@ The course deals with the programming of experiments with the software [oTree](h
     <td>oTree: Programming and management of experiments in oTree</td>
   </tr> 
      <tr>
-       <td ><a href="./2/PRINTOUT.html">2</a></td>
+       <td ><a href="http://htmlpreview.github.io/?https://github.com/ploteo/oTree-course/blob/main/2/PRINTOUT.html" target="_blank">2</a></td>
     <td>oTree: Fundamental components of an experiment</td>
   </tr> 
     </tr> 
