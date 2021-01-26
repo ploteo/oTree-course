@@ -22,7 +22,7 @@ The course deals with the programming of experiments with the software [oTree](h
     <th>Topic</th>
   </tr>
    <tr>
-     <td ><a href="http://htmlpreview.github.io/?https://github.com/ploteo/oTree-course/blob/main/1/PRINTOUT.html" target="_blank">1</a></td>
+     <td ><a href="http://htmlpreview.github.io/?https://github.com/ploteo/oTree-course/blob/main/1/PRINTOUT.html" target="blank">1</a></td>
     <td>oTree: Programming and management of experiments in oTree</td>
   </tr> 
      <tr>
