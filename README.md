@@ -35,7 +35,7 @@ The course deals with the programming of experiments with the software [oTree](h
     <td>oTree: Questionnaires and individual decision making</td>
   </tr> 
      <tr>
-    <td >4</td>
+    <td ><a href="http://htmlpreview.github.io/?https://github.com/ploteo/oTree-course/blob/main/4/PRINTOUT.html" target="_blank">4</a></td>
     <td>oTree: Strategic interaction</td>
   </tr> 
       <tr>
