@@ -39,7 +39,7 @@ The course deals with the programming of experiments with the software [oTree](h
     <td>oTree: Strategic interaction</td>
   </tr> 
       <tr>
-    <td >5</td>
+    <td ><a href="http://htmlpreview.github.io/?https://github.com/ploteo/oTree-course/blob/main/5/PRINTOUT.html" target="_blank">5</a></td>
     <td>oTree: Styling</td>
   </tr>  
 </table>
