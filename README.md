@@ -45,4 +45,4 @@ The course deals with the programming of experiments with the software [oTree](h
 </table>
 
 
-**Disclaimer**: All the code providedhere is provided on an "*as is*" and "*as available" basis and you agree that you use such code entirely at your own risk.
+**Disclaimer**: All the code provided here is provided on an "*as is*" and "*as available" basis and you agree that you use such code entirely at your own risk.
